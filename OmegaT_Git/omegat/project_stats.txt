@@ -1,0 +1,14 @@
+2/26/18 2:36 PM
+Project Statistics
+
+                 	Segments	Words	Characters (without spaces)	Characters (including spaces)	#Files	
+Total:           	      19	   76	                        316	                          373	     1	
+Remaining:       	      15	   60	                        260	                          305	     1	
+Unique:          	      18	   72	                        301	                          355	     1	
+Unique Remaining:	      15	   60	                        260	                          305	     1	
+
+
+Individual File Statistics:
+
+File Name	Total Segments	Remaining Segments	Unique Segments	Unique Remaining Segments	Total Words	Remaining Words	Unique Words	Unique Remaining Words	Total Characters (without spaces)	Remaining Characters (without spaces)	Unique Characters (without spaces)	Unique Remaining Characters (without spaces)	Total Characters (including spaces)	Remaining Characters (including spaces)	Unique Characters (including spaces)	Unique Remaining Characters (including spaces)	
+dummy.txt	            19	                15	             18	                       15	         76	             60	          72	                    60	                              316	                                  260	                               301	                                         260	                                373	                                    305	                                 355	                                           305	
