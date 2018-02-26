@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.3_2_10257" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -14,10 +14,34 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>I need some love.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180226T194530Z" creationid="Mr.Castrillon" creationdate="20180226T194530Z">
+        <seg>Necesito amor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>My house is black.</seg>
       </tuv>
       <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180226T183551Z" creationid="Mr.Castrillon" creationdate="20180226T183156Z">
         <seg>Mi casa es negra </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Welcome to my house.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180226T194544Z" creationid="Mr.Castrillon" creationdate="20180226T194544Z">
+        <seg>Bienvenido a mi casa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Your house is black.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180226T194538Z" creationid="Mr.Castrillon" creationdate="20180226T194538Z">
+        <seg>Tu casa es negra</seg>
       </tuv>
     </tu>
     <tu>
